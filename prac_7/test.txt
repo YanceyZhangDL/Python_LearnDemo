@@ -1,0 +1,3 @@
+Today is a great day.
+
+But gedit can't insert chinese words!
